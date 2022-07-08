@@ -1,5 +1,5 @@
 ### Hi there 👋
-## hi there, my name is Gabriel Vogel
+## Hi there, my name is Gabriel Vogel
 
 <!--
 **glvogel/glvogel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
